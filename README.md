@@ -77,17 +77,17 @@ The Power BI report splits the analytical depth across three business-ready repo
 ### Page 1: Executive Overview
 * **Purpose:** Provides executive stakeholders an immediate high-level summary of total enrollment and macro learner success rates.
 * **KPIs Featured:** Total Students (29K), Total Clicks (40M), Average Score (75.80), and global Pass Rate (37.63%).
-![Page 1 - Executive Overview](dashboard_page1.png)
+![Page 1 - Executive Overview](screenshots/dashboard_page1.png)
 
 ### Page 2: Student Performance Analysis
 * **Core Business Questions Answered:** Does prior educational background dictate scores? Which age groups or regions generate stronger outcomes? Which specific modules present high academic risk?
 * **Key Finding:** Student success rates varied significantly across different course modules, highlighting potential structural optimization opportunities.
-![Page 2 - Student Performance Analysis](dashboard_page2.png)
+![Page 2 - Student Performance Analysis](screenshots/dashboard_page2.png)
 
 ### Page 3: Engagement & Learning Behavior Analysis
 * **Core Business Questions Answered:** Do highly engaged digital students achieve stronger final results? Which modules generate the highest density of online activity?
 * **Key Finding:** Higher digital engagement levels (VLE interaction counts and total clicks) are strongly associated with 'Pass' and 'Distinction' outcomes.
-![Page 3 - Engagement and Learning Behavior](dashboard_page3.png)
+![Page 3 - Engagement and Learning Behavior](screenshots/dashboard_page3.png)
 
 ---
 
