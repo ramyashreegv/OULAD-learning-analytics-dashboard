@@ -57,7 +57,8 @@ Relationships were mapped using a clean star-schema framework, separating dimens
 * **Dimension Tables:** `dim_studentInfo`, `dim_courses`, `dim_assessment`, `dim_student_registration`.
 * **Fact Tables:** `fact_student_assessment`, `fact_student_engagement`.
 
-![Power BI Star Schema Data Model](model_screenshot.png)
+![Power BI Star Schema Data Model](<img width="1171" height="676" alt="model_screenshot" src="https://github.com/user-attachments/assets/a1c7d0f8-6f00-4839-8d82-eaa55326e76e" />
+)
 
 ---
 
