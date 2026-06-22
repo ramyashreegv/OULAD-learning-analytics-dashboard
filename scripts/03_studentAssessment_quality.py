@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\CR SHARMA\Desktop\My Courses\Data Analytics\Projects\P1 - EdTech\OULAD Datasets\studentAssessment.csv")
+df = pd.read_csv(r"OULAD Datasets\studentAssessment.csv")
 
 print(df.head())
 print(df.shape)
