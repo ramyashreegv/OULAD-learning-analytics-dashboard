@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\CR SHARMA\Desktop\My Courses\Data Analytics\Projects\P1 - EdTech\OULAD Datasets\studentVle.csv")
+df = pd.read_csv(r"OULAD Datasets\studentVle.csv")
 
 def basic_check(df, name):
     print(f"\n===== {name} =====")
