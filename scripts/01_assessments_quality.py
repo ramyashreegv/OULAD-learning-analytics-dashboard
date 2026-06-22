@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\CR SHARMA\Desktop\My Courses\Data Analytics\Projects\P1 - EdTech\OULAD Datasets\assessments.csv")
+df = pd.read_csv(r"OULAD Datasets\assessments.csv")
 
 # Basic inspection
 print(df['code_module'].head())
